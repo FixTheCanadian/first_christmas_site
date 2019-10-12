@@ -1,14 +1,41 @@
-* {
-    background-color: black;
-}
-
 body {
-    margin: 0;
-    border: 0;
-}
-
-header {
-    height: 300px;
-    width: 100%;
-    background-color: #ffffff;
-}
+    height: 95vh;
+    }
+    
+    header {
+    height: 200px;
+    }
+    
+    footer {
+    height: 80px;
+    background-color: purple;
+    }
+    
+    #banner
+    {
+    background-color: red;
+    height: 200px;
+    }
+    #wrapper
+    {
+    background-color: #000000;
+    height: 1000px;
+    }
+    
+    #navbar
+    {
+    background-color: #4e85d6;
+    height: 50px;
+    }
+    
+    #countdown
+    {
+    background-color: #9dff00;
+    height: 400px;
+    }
+    
+    #paragraph
+    {
+    height: 500px;
+    background-color: yellow;
+    }
